@@ -2411,6 +2411,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 9198327543589497139, guid: 41a23e0516c7af7458fcc9f571a11136, type: 3}
+      propertyPath: crash
+      value: 
+      objectReference: {fileID: 8300000, guid: f7ff880a15b718a4699dfcc9a461c270, type: 3}
+    - target: {fileID: 9198327543589497139, guid: 41a23e0516c7af7458fcc9f571a11136, type: 3}
+      propertyPath: success
+      value: 
+      objectReference: {fileID: 8300000, guid: c53601927e4cb9c4b8ee4f049ce6c3d7, type: 3}
+    - target: {fileID: 9198327543589497139, guid: 41a23e0516c7af7458fcc9f571a11136, type: 3}
+      propertyPath: levelLoadDelay
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 9198327543589497143, guid: 41a23e0516c7af7458fcc9f571a11136, type: 3}
       propertyPath: m_RootOrder
       value: 3
