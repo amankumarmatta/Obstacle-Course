@@ -29,15 +29,6 @@ public class CollisionHandler : MonoBehaviour
 
     void DebugKeys()
     {
-        if(Input.GetKeyDown(KeyCode.L))
-        {
-            LoadNextLevel();
-        }
-        else if(Input.GetKeyDown(KeyCode.C))
-        {
-            collisionDisabled = !collisionDisabled; //Toggle Collision
-        }
-
         if(Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene(0);
