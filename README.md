@@ -12,4 +12,4 @@ CONTROLS :-
 Use WASD for movement and alternatively we can use arrow keys to move.
 
 GOAL :- 
-Reach the finish point in order to finish the level and advacne forward.
+Reach the finish point in order to finish the level and advance forward.
